@@ -15,7 +15,7 @@ The feature requests should be submitted to the repo [https://github.com/ONLYOFF
 1. Get the latest version of this repository running the command:
 
     ```
-    git clone https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud
+    git clone https://github.com/bolgov0zero/docker-onlyoffice-nextcloud
     cd docker-onlyoffice-nextcloud
     ```
 
